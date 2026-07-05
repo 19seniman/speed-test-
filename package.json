@@ -1,0 +1,10 @@
+{
+  "name": "node-speedtest",
+  "version": "1.0.0",
+  "description": "Speed test sederhana (download, upload, ping) berbasis Node.js tanpa dependency eksternal",
+  "main": "speedtest.js",
+  "scripts": {
+    "start": "node speedtest.js"
+  },
+  "license": "MIT"
+}
